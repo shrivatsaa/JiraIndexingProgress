@@ -1,0 +1,1 @@
+The purpose of this script is to provide a means to track the progress of full re-indexing, outside the Jira indexing page and also identify the time period when a thread dump could be taken, to understand the factors, contributing to the slowness of the re-indexing process.
